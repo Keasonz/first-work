@@ -50,7 +50,7 @@ p.tip span {
 	}
 
 p.tip2 {
-		background: #BBEDB8 url(/ui2017/tip.png) top left no-repeat;
+		background: #BBEDB8 url() top left no-repeat;
 		display:block;
 		padding:15px 15px 15px 50px;
 		color:#000;
@@ -100,7 +100,7 @@ pre code
 
 .html5_new_note
 		{
-		background: #ffffff url(/i/html5_new_note.png) top left no-repeat;
+		background: #ffffff url() top left no-repeat;
 		padding-left:20px;
 		}
 
@@ -146,7 +146,7 @@ div#wrapper
 		border: 0;
 		width: 1239px;
 		text-align: left;
-		background: transparent url(/ui2017/wrapper.png) top left repeat-y;
+		background: transparent url(wrapper-1) top left repeat-y;
 		}
 
 div#navsecond
@@ -202,7 +202,7 @@ div#footer
 		line-height:24px;
 		background: #f0f0f0;
 		border-top: 0px solid #fff;
-		background: #fdfcf8 url(/ui2017/footer.png) top left repeat-x;
+		background: #fdfcf8 url(footer.png) top left repeat-x;
 		font-family:PingFangSC-Regular, '微软雅黑', Verdana, Arial, '宋体';
 		}
 
@@ -211,7 +211,7 @@ div#footer #p1
 		font-size:12px;
 		color:#777777;
 		text-align:center;
-		background: transparent url(/ui2017/alert.png) no-repeat;
+		background: transparent url(alert.png) no-repeat;
 		background-position:235px 2px;
 		}
 
@@ -254,7 +254,7 @@ div#header  a:link, div#header  a:visited
 		display: block;	
 		width: 372px;
 		height: 90px;
-		background : transparent url(/ui2017/bg.png) 0 -150px no-repeat;
+		background : transparent url(bg.png) 0 -150px no-repeat;
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -262,7 +262,7 @@ div#header  a:link, div#header  a:visited
 
 div#header  a:hover
 		{
-		background: transparent url(/ui2017/bg.png) 0 -250px no-repeat;
+		background: transparent url(bg.png) 0 -250px no-repeat;
 		}
 
 div#header	div#ad_head
@@ -279,7 +279,7 @@ div#header_index  a:link, div#header_index  a:visited, div#header_index  h1
 		display: block;	
 		width: 500px;
 		height: 100px;
-		background : transparent url(/ui2017/bg.png) 0 -150px no-repeat;
+		background : transparent url(bg.png) 0 -150px no-repeat;
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -292,7 +292,7 @@ div#header_index  h1
 
 div#header_index  a:hover
 		{
-		background: transparent url(/ui2017/bg.png) 0 -250px no-repeat;
+		background: transparent url(bg.png) 0 -250px no-repeat;
 		}
 
 
@@ -394,46 +394,46 @@ body#homefirst div#maincontent div.idea
 
 body#homefirst div#maincontent div#d2
 		{
-		background : transparent url(/ui2017/icon2.png) 0 0 no-repeat;
+		background : transparent url(icon2.png) 0 0 no-repeat;
 		}
 
 body#homefirst div#maincontent div#d3
 		{
-		background : transparent url(/ui2017/icon3.png) 0 0 no-repeat;
+		background : transparent url(icon3.png) 0 0 no-repeat;
 		}
 
 body#homefirst div#maincontent div#d4
 		{
-		background : transparent url(/ui2017/icon4.png) 0 0 no-repeat;
+		background : transparent url(icon4.png) 0 0 no-repeat;
 		}
 
 body#homefirst div#maincontent div#d5
 		{
-		background : transparent url(/ui2017/icon5.png) 0 0 no-repeat;
+		background : transparent url(icon5.png) 0 0 no-repeat;
 		}
 
 body#homefirst div#maincontent div#d6
 		{
-		background : transparent url(/ui2017/icon6.png) 0 0 no-repeat;
+		background : transparent url(icon6.png) 0 0 no-repeat;
 		}
 
 body#homefirst div#maincontent div#d7
 		{
-		background : transparent url(/ui2017/icon7.png) 0 0 no-repeat;
+		background : transparent url(icon7.png) 0 0 no-repeat;
 		}
 
 body#homefirst div#maincontent div#d8
 		{
-		background : transparent url(/ui2017/icon8.png) 0 0 no-repeat;
+		background : transparent url(icon8.png) 0 0 no-repeat;
 		border:0px;
 		}
 
 body#homefirst div#maincontent div#d9		{
-		background: transparent url(/ui2017/icon9.png) top left no-repeat;
+		background: transparent url(icon9.png) top left no-repeat;
 		}
 
 body#homefirst div#maincontent div#d10		{
-		background: transparent url(/ui2017/icon10.png) top left no-repeat;
+		background: transparent url(icon10.png) top left no-repeat;
 		}
 
 body#homefirst div#maincontent div.idea img
@@ -499,7 +499,7 @@ div#navfirst ul#menu
 		{
 		height: 48px;
 		width: 1210px;
-		background: transparent url(/ui2017/bg.png) top left no-repeat;
+		background: transparent url(bg.png) top left no-repeat;
 		margin: 0;
 		padding: 0;
 		position: relative;
@@ -536,21 +536,21 @@ div#navfirst ul#menu li a
 #ws	{left:738px;width:185px;}
 #w	{left:923px;width:177px;}
 
-#h a:hover	{background: transparent url(/ui2017/bg.png) 0 -48px no-repeat;}
-#b a:hover	{background: transparent url(/ui2017/bg.png) -155px -48px no-repeat;}
-#s a:hover		{background: transparent url(/ui2017/bg.png) -312px -48px no-repeat;}
-#d a:hover	{background: transparent url(/ui2017/bg.png) -479px -48px no-repeat;}
-#x a:hover		{background: transparent url(/ui2017/bg.png) -637px -48px no-repeat;}
-#ws a:hover	{background: transparent url(/ui2017/bg.png) -738px -48px no-repeat;}
-#w a:hover	{background: transparent url(/ui2017/bg.png) -923px -48px no-repeat;}
+#h a:hover	{background: transparent url(bg.png) 0 -48px no-repeat;}
+#b a:hover	{background: transparent url(bg.png) -155px -48px no-repeat;}
+#s a:hover		{background: transparent url(bg.png) -312px -48px no-repeat;}
+#d a:hover	{background: transparent url(bg.png) -479px -48px no-repeat;}
+#x a:hover		{background: transparent url(bg.png) -637px -48px no-repeat;}
+#ws a:hover	{background: transparent url(bg.png) -738px -48px no-repeat;}
+#w a:hover	{background: transparent url(bg.png) -923px -48px no-repeat;}
 
-body.html #h					 {background: transparent url(/ui2017/bg.png) 0 -48px no-repeat;}
-body.browserscripting #b	 {background: transparent url(/ui2017/bg.png) -155px -48px no-repeat;}
-body.serverscripting #s		 {background: transparent url(/ui2017/bg.png) -312px -48px no-repeat;}
-body.dotnet #d					 {background: transparent url(/ui2017/bg.png) -479px -48px no-repeat;}
-body.xml #x						 {background: transparent url(/ui2017/bg.png) -637px -48px no-repeat;}
-body.webservices #ws		 {background: transparent url(/ui2017/bg.png) -738px -48px no-repeat;}
-body.webbuilding #w		 {background: transparent url(/ui2017/bg.png) -923px -48px no-repeat;}
+body.html #h					 {background: transparent url(bg.png) 0 -48px no-repeat;}
+body.browserscripting #b	 {background: transparent url(bg.png) -155px -48px no-repeat;}
+body.serverscripting #s		 {background: transparent url(bg.png) -312px -48px no-repeat;}
+body.dotnet #d					 {background: transparent url(bg.png) -479px -48px no-repeat;}
+body.xml #x						 {background: transparent url(bg.png) -637px -48px no-repeat;}
+body.webservices #ws		 {background: transparent url(bg.png) -738px -48px no-repeat;}
+body.webbuilding #w		 {background: transparent url(bg.png) -923px -48px no-repeat;}
 
 
 
